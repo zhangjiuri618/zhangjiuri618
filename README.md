@@ -18,13 +18,14 @@ Here are some ideas to get you started:
 
 <div id="title" align=center>
 
-![Modern C++ template][github-sub-title:img]
+![Modern C++ template] [github-sub-title:img]
+
 [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%e8%af%8d%e7%ad%b9-yello)](https://www.zhihu.com/people/ci-chou-77)
 [![youtube](https://img.shields.io/badge/video-YouTube-red)]()
 
 [![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)]() 
 ![](https://img.shields.io/badge/讨厌-学习-yellow) 
-![](https://img.shields.io/badge/性格-开朗-red) 
+![](https://img.shields.io/badge/爱一个人就要一直爱下去-MWYred) 
 ![](https://img.shields.io/badge/爱好-运动-red)
 
 </div>
