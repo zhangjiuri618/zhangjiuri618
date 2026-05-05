@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 [![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)]() 
 ![](https://img.shields.io/badge/讨厌-学习-yellow) 
-![](https://img.shields.io/badge/爱一个人就要一直爱下去-MWYred) 
+![](https://img.shields.io/badge/爱一个人就要一直爱下去-MWY-red) 
 ![](https://img.shields.io/badge/爱好-运动-red)
 
 </div>
