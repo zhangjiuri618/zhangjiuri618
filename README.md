@@ -18,7 +18,8 @@ Here are some ideas to get you started:
 
 <div id="title" align=center>
 
-![Modern C++ template] [github-sub-title:img]
+
+![](一万年.png)
 
 [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%e8%af%8d%e7%ad%b9-yello)](https://www.zhihu.com/people/ci-chou-77)
 [![youtube](https://img.shields.io/badge/video-YouTube-red)]()
@@ -31,4 +32,4 @@ Here are some ideas to get you started:
 </div>
 
 ![](Lumen.png)
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=一路向北.
+
