@@ -29,5 +29,4 @@ Here are some ideas to get you started:
 </div>
 
 ![](Lumen.png)
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=zhang.
-
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=一路向北.
