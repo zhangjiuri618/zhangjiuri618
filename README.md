@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![Modern C++ template][github-sub-title:img]
 
-[![知乎](https://photo.16pic.com/00/56/07/16pic_5607016_b.jpg?imageView2/0/format/jpg-yello)]()
+[![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yello)](https://www.zhihu.com/people/o4ze4r)
 [![youtube](https://img.shields.io/badge/video-YouTube-red)]()
 
 [![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)]() 
