@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小张同学祝您今天愉快!&center=true&size=27"> </a> </h1>
+
 <div id="title" align=center>
 
-
+![Modern C++ template][github-sub-title:img]
 [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%e8%af%8d%e7%ad%b9-yello)](https://www.zhihu.com/people/ci-chou-77)
 [![youtube](https://img.shields.io/badge/video-YouTube-red)]()
 
